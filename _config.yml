@@ -1,4 +1,3 @@
-layout_spectrum: 0.4251733412966132
 typography_spectrum: 0.9522403858136386
 color:
   brandStrength: 0.003990171942859888
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-name: Baktun Nah
+layout_spectrum: 0.4251733412966132
+name: Bak-Tun-Nah
 title: Bak-Tun-Nah
+description: Caribbean Jungle House
