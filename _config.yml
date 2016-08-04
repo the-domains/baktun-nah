@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.4251733412966132
 name: Bak-Tun-Nah
+navigation:
+  - name: Around the Area
+    id: 689f652d-cdd6-484b-b659-fc3aac09701e
+    type: content
 title: Bak-Tun-Nah
 description: Caribbean Jungle House
